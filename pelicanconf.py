@@ -72,13 +72,13 @@ ARCHIVES_SAVE_AS = "archive/index.html"
 
 ### Plugins
 
-PLUGIN_PATHS = ["../pelican-plugins"]
+PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = [
     "sitemap",
     "neighbors",
-    # "assets",
-    # "post_stats",
+    "assets",
+    "post_stats",
 ]
 
 # Sitemap
