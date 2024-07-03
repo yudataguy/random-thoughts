@@ -78,7 +78,7 @@ PLUGINS = [
     "sitemap",
     "neighbors",
     "assets",
-    "post_stats",
+    # "post_stats",
 ]
 
 # Sitemap
