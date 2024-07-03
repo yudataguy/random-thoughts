@@ -1,5 +1,5 @@
 AUTHOR = 'Sam Yu'
-SITENAME = "Bl◯◯k P◯st"
+SITENAME = "Bl__k P◯st"
 SITEURL = "https://blkpst.com"
 
 PATH = "content"
