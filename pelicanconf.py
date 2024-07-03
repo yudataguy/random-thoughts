@@ -77,7 +77,7 @@ PLUGIN_PATHS = ["plugins"]
 PLUGINS = [
     "sitemap",
     "neighbors",
-    "assets",
+    # "assets",
     # "post_stats",
 ]
 
