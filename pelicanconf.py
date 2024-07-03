@@ -1,6 +1,6 @@
 AUTHOR = 'Sam Yu'
 SITENAME = "Bl◯◯k P◯st"
-SITEURL = ""
+SITEURL = "https://blkpst.com"
 
 PATH = "content"
 
@@ -126,4 +126,4 @@ SHOW_TAGS_IN_ARTICLE_SUMMARY = False
 # RELATIVE_URLS = True
 
 # Theme
-THEME = "attila"
+THEME = "themes/attila"
