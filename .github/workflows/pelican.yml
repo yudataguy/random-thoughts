@@ -3,16 +3,13 @@ name: Deploy Pelican site to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages  # Set this to your default branch
+      - gh-pages  # Changed to gh-pages branch
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-      with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     - name: Set up Python
       uses: actions/setup-python@v3
@@ -22,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pelican markdown ghp-import
+        pip install pelican markdown
 
     - name: Build site
       run: pelican content -o output -s pelicanconf.py
@@ -32,3 +29,5 @@ jobs:
       with:
         github_token: ${{ secrets.ACTION_TOKEN }}
         publish_dir: ./output
+        publish_branch: gh-pages
+        force_orphan: true
