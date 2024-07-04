@@ -22,8 +22,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    # ("You can add links in your config file", "#"),
+    # ("Another social link", "#"),
 )
 
 DEFAULT_PAGINATION = 10
@@ -103,11 +103,10 @@ AUTHOR_META = {
 
 MENUITEMS = (
     ("Home", "/"),
-    ("Tag", "/tag/getting-started/"),
+    ("Tag", "/tag/"),
     ("Author", "/author/samu/"),
-    ("Category", "/category/examples/"),
+    ("Category", "/category/"),
     ("Archives", "/2024/07/"),
-    ("Plugins", "https://github.com/pelican-plugins"),
 )
 
 SHOW_ARTICLE_MODIFIED_TIME = False
