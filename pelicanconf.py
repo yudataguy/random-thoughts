@@ -70,7 +70,7 @@ AUTHORS_SAVE_AS = 'author/index.html'
 ARCHIVES_URL = "archive/"
 ARCHIVES_SAVE_AS = "archive/index.html"
 
-### Plugins
+# Plugins
 
 PLUGIN_PATHS = ["plugins"]
 
@@ -106,7 +106,7 @@ MENUITEMS = (
     ("Tag", "/tag/"),
     ("Author", "/author/samu/"),
     ("Category", "/category/"),
-    ("Archives", "/2024/07/"),
+    # ("Archives", "/2024/07/"),
 )
 
 SHOW_ARTICLE_MODIFIED_TIME = False
