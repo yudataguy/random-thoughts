@@ -104,7 +104,7 @@ AUTHOR_META = {
 MENUITEMS = (
     ("Home", "/"),
     ("Tag", "/tag/"),
-    ("Author", "/author/samu/"),
+    # ("Author", "/author/samu/"),
     ("Category", "/category/"),
     # ("Archives", "/2024/07/"),
 )
