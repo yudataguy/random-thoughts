@@ -5,36 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blkpst.com/</loc>
-<lastmod>2024-07-27T19:20:48-00:00</lastmod>
+<lastmod>2024-07-27T19:31:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/tag/</loc>
-<lastmod>2024-07-27T19:20:48-00:00</lastmod>
+<lastmod>2024-07-27T19:31:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/category/</loc>
-<lastmod>2024-07-27T19:20:48-00:00</lastmod>
+<lastmod>2024-07-27T19:31:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/author/</loc>
-<lastmod>2024-07-27T19:20:48-00:00</lastmod>
+<lastmod>2024-07-27T19:31:38-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/archive/</loc>
-<lastmod>2024-07-27T19:20:48-00:00</lastmod>
+<lastmod>2024-07-27T19:31:38-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blkpst.com/2024/07/some-background-on-japans-it-industry/</loc>
+<lastmod>2024-07-27T08:09:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -47,28 +54,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blkpst.com/category/japan/</loc>
-<lastmod>2024-07-03T10:20:00-07:53</lastmod>
+<lastmod>2024-07-27T08:09:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/tag/japan/</loc>
-<lastmod>2024-07-03T10:20:00-07:53</lastmod>
+<lastmod>2024-07-27T08:09:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/tag/startup/</loc>
-<lastmod>2024-07-03T10:20:00-07:53</lastmod>
+<lastmod>2024-07-27T08:09:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/author/samu/</loc>
-<lastmod>2024-07-03T10:20:00-07:53</lastmod>
+<lastmod>2024-07-27T08:09:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
