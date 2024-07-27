@@ -1,5 +1,4 @@
-# Some Background on Japan's IT Industry
-
+Title:Some Background on Japan's IT Industry
 Date: 2024-07-27 08:09
 Author: samu
 Tags: Japan, Startup
