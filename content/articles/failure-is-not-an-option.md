@@ -4,8 +4,6 @@ Author: samu
 Tags: Japan, Startup
 Category: Japan
 
-# Failure is Not an Option: Insights into Japanese Business Culture
-
 You're unlikely to hear about my personal failures in the startup world, such as failing to communicate fully, letting problems slide to avoid conflict, or building products without customer input. As a reader, you're probably more interested in understanding the underlying issues in Japan and what you can learn from my experiences.
 
 ## Career Path
