@@ -5,36 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blkpst.com/</loc>
-<lastmod>2024-08-14T15:50:54-00:00</lastmod>
+<lastmod>2024-09-01T05:34:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/tag/</loc>
-<lastmod>2024-08-14T15:50:54-00:00</lastmod>
+<lastmod>2024-09-01T05:34:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/category/</loc>
-<lastmod>2024-08-14T15:50:54-00:00</lastmod>
+<lastmod>2024-09-01T05:34:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/author/</loc>
-<lastmod>2024-08-14T15:50:54-00:00</lastmod>
+<lastmod>2024-09-01T05:34:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/archive/</loc>
-<lastmod>2024-08-14T15:50:54-00:00</lastmod>
+<lastmod>2024-09-01T05:34:19-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blkpst.com/2024/08/ditial-analog-dezirogu/</loc>
+<lastmod>2024-08-31T08:06:00-07:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -61,14 +68,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blkpst.com/category/japan/</loc>
-<lastmod>2024-08-14T08:43:00-07:53</lastmod>
+<lastmod>2024-08-31T08:06:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://blkpst.com/tag/japan/</loc>
-<lastmod>2024-08-14T08:43:00-07:53</lastmod>
+<lastmod>2024-08-31T08:06:00-07:53</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://blkpst.com/tag/dx/</loc>
+<lastmod>2024-08-31T08:06:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -82,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://blkpst.com/author/samu/</loc>
-<lastmod>2024-08-14T08:43:00-07:53</lastmod>
+<lastmod>2024-08-31T08:06:00-07:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
